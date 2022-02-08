@@ -3,11 +3,15 @@ banner:
   title: Hi! I’m <br> Sheldon <br> Front end developer
 about:
   enable: true
-  content: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-    tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis
-    nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
-    Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu
-    fugiat nulla pariatur.
+  content: 'I am a creative front-end developer with a keen eye for detail and a strong
+    dev ops skill set. I have over 5 years of experience in designing, building and
+    maintaining websites and online portals. I also have extensive experience with
+    SEO, digital marketing and advertising via Google and Facebook Ads & Analytics,
+    not only developing and executing marketing campaigns but also creating static
+    as well as interactive animated creatives. I am highly personable with the ability
+    to engage multiple business stakeholders and providing excellent customer service.
+
+    '
   button:
     enable: true
     label: know more
